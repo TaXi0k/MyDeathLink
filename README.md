@@ -2,7 +2,7 @@
 
 ## MyDeathLink
 
-Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled downloads and more. If you don't care about code scroll down to ***Instalation and usage***.
+Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled downloads and more. If you don't care about code scroll down to [***Instalation and usage***](https://github.com/TaXi0k/MyDeathLink/blob/main/README.md#instalation-and-usage).
 
 ## Development
 
@@ -13,6 +13,7 @@ Below you can see development progress of the project.
 | App                    |      ✅     |    0.1.0    |
 | Grand Theft Auto V mod |      ✅     |    0.1.0    |
 | Dark Souls 3 mod       |      🛠️     |      --     |
+| Maybe more in the future|      ...     |     ...     |
 
 
 **Legend:**
@@ -20,6 +21,13 @@ Below you can see development progress of the project.
 * 📝 — planned to develop
 * 🛠️ — in development
 * ✅ — already developed
+
+>
+>**How can you help the project?**
+>
+>If you know how I could stop the app from being flagged as malware by most antivirus software, I’d really appreciate your help!
+>
+>If you have any other tips or want to help in any other way, feel free to message me on [Discord](https://discord.com/users/748861794637971547).
 
 ## Instalation and usage
 
@@ -54,4 +62,3 @@ After launching the app, it will prompt you to enter your friend's IPv4 address.
 Now, in the **MyDeathLink** app, enter the IP address shown by the VPN app you downloaded.  
 
 If there's anything else you'd like to know or you have any problems with the app or mod, please contact me on [Discord](https://discord.com/users/748861794637971547).
-
