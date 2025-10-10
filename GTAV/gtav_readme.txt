@@ -1,1 +1,1 @@
-
+These is code of MyDeathLink_GTAV mod. You can do anything you want with it. Or just compile it on your own (I compiled with cl /LD /Fe:MyDeathLink_GTAV.asi main.cpp /link ScriptHookV.lib). Feel free to change the code. If you post it somewhere to download please mention me.
