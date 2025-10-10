@@ -4,6 +4,24 @@
 
 Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled downloads and more. If you don't care about code scroll down to ***Instalation and usage***.
 
+## Development
+
+Below you can see development progress of the project.
+
+| **Module**             | **Status** | **Version** |
+|------------------------|------------|-------------|
+| App                    |      ✅     |    0.1.0    |
+| Grand Theft Auto V mod |      ✅     |    0.1.0    |
+| Dark Souls 3 mod       |      🛠️     |      --     |
+| Maybe more in the future|      ...     |     ...     |
+
+
+**Legend:**
+
+* 📝 — planned to develop
+* 🛠️ — in development
+* ✅ — already developed
+
 ## Instalation and usage
 
 **Step 1:** Download
