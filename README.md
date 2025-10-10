@@ -12,7 +12,7 @@ Head to [binaries](https://github.com/TaXi0k/MyDeathLink/tree/main/GTAV). Now do
 
 > **WARNING!**
 >
-> This app is **not** malware, but most antivirus software might flag it because it listens for UDP datagrams.
+> This mod is **not** malware, but most antivirus software might flag it because it listens for UDP datagrams.
 >
 > If you don’t trust me, you can check the source code in the [APP](https://github.com/TaXi0k/MyDeathLink/tree/main/APP) folder and compile it yourself.
 >
@@ -22,17 +22,19 @@ Head to [binaries](https://github.com/TaXi0k/MyDeathLink/tree/main/GTAV). Now do
 
 * The app is just a single executable, so it should work by simply opening the file.
 * Mod installation depends on the game you want to use. I’ll include a tutorial for GTA V only. For other games, you’ll need to google it — I’m sure you’ll figure it out.
-* * First download [ScriptHookV](https://ntscorp.ru/dev-c/ScriptHookV_3586.0_889.22.zip).
-* * Extract the files from the downloaded `.zip` into your game’s root folder (the one with `GTAV.exe`).
-* * Finally, put the downloaded `MyDeathLink_GTAV.asi` file into the same folder.
-* * When you launch the game and enter story mode, after a few seconds you should see a green notification saying the mod is enabled.
+  * First download [ScriptHookV](https://ntscorp.ru/dev-c/ScriptHookV_3586.0_889.22.zip).
+  * Extract the files from the downloaded `.zip` into your game’s root folder (the one with `GTAV.exe`).
+  * Finally, put the downloaded `MyDeathLink_GTAV.asi` file into the same folder.
+  * When you launch the game and enter story mode, after a few seconds you should see a green notification saying the mod is enabled.
 
-**Step 3:** Usage
+**Step 3:** Usage  
 
-After launching the app it will prompt you asking to enter your friends IPv4 address. As the app works only over LAN you have to enter your friend's local IPv4.
+After launching the app, it will prompt you to enter your friend's IPv4 address. Since the app works only over LAN, you have to enter your friend's **local IPv4**.  
 
-> Now you might ask "Hey but my friend doesn't live with me so he's on remote network." 
+> You might ask: "Hey, but my friend doesn't live with me, so he's on a remote network."  
 
-*Yep exacly!* If your friend isn't on the same network as you are then you have to download app like [LogMeIn Hamachi](https://vpn.net) or [tailscale](https://tailscale.com) or anything like that. Now in **MyDeathLink** app you enter your friends app shown by app you downloaded.
+*Exactly!* If your friend isn't on the same network, you need to use an app like [LogMeIn Hamachi](https://vpn.net) or [Tailscale](https://tailscale.com), or anything similar.  
+Now, in the **MyDeathLink** app, enter the IP address shown by the VPN app you downloaded.  
 
-If there is anything else you'd like to know or you have any problems with the app or mod please contact me on [discord](https://discord.com/users/748861794637971547).
+If there's anything else you'd like to know or you have any problems with the app or mod, please contact me on [Discord](https://discord.com/users/748861794637971547).
+
