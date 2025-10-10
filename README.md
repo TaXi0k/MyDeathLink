@@ -12,7 +12,7 @@ Head to [binaries](https://github.com/TaXi0k/MyDeathLink/tree/main/GTAV). Now do
 
 > **WARNING!**
 >
-> This mod is **not** malware, but most antivirus software might flag it because it listens for UDP datagrams.
+> This app is **not** malware, but most antivirus software might flag it because it listens for UDP datagrams.
 >
 > If you don’t trust me, you can check the source code in the [APP](https://github.com/TaXi0k/MyDeathLink/tree/main/APP) folder and compile it yourself.
 >
