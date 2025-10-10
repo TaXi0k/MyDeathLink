@@ -4,6 +4,16 @@
 
 Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled downloads and more. If you don't care about code scroll down to [***Instalation and usage***](https://github.com/TaXi0k/MyDeathLink/blob/main/README.md#instalation-and-usage).
 
+## What MyDeathLink is?
+
+**TL;DR:**  
+
+MyDeathLink is a way to sync two games on two PCs so when you die, your friend also dies.
+
+**Longer version with a bit of story:**  
+
+This project started because I wanted to play [Archipelago](https://archipelago.gg) with my friend, but it turned out that Archipelago has very few interesting games. I thought, "Hey, I know a bit of programming and I'd love to learn more!" so I started this project. It contains the **MyDeathLink app**, which handles communication between your PCs, and **game mods** which kill you and check if you died. All the networking works by sending and listening for UDP datagrams. It uses three ports: 2137, 2138, 2139 `(R.I.P. John Paul II)`. You can find out what each port does in the [documentation](). Communication between the app on your PC and the game on your PC works by sending segments to `127.0.0.1` (loopback address) and listening for them (**see:** communication scheme in [documentation]()).
+
 ## Development
 
 Below you can see development progress of the project.
@@ -14,7 +24,6 @@ Below you can see development progress of the project.
 | Grand Theft Auto V mod |      ✅     |    0.1.0    |
 | Dark Souls 3 mod       |      🛠️     |      --     |
 | Maybe more in the future|      ...     |     ...     |
-
 
 **Legend:**
 
@@ -62,3 +71,7 @@ After launching the app, it will prompt you to enter your friend's IPv4 address.
 Now, in the **MyDeathLink** app, enter the IP address shown by the VPN app you downloaded.  
 
 If there's anything else you'd like to know or you have any problems with the app or mod, please contact me on [Discord](https://discord.com/users/748861794637971547).
+
+## Documentation
+
+Hello, World!
