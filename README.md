@@ -13,7 +13,6 @@ Below you can see development progress of the project.
 | App                    |      ✅     |    0.1.0    |
 | Grand Theft Auto V mod |      ✅     |    0.1.0    |
 | Dark Souls 3 mod       |      🛠️     |      --     |
-| Maybe more in the future|      ...     |     ...     |
 
 
 **Legend:**
