@@ -11,7 +11,7 @@ Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled d
 * This project is built with **Windows only** in mind! It **DOESN'T** and probably **WON'T EVER** work on Linux or MacOS.
 * If you are on Windows 11 or Windows 10, everything should work.
 * All mods are built for **Windows only**. They will **not** work on Linux or MacOS.  
-Specific mods may have additional requirements depending on the game, so check each mod’s instructions.
+Specific mods may have additional requirements depending on the game f.e. GTAV mod requires ScriptHookV and DS3 mod requires ModEngine.
 
 ## What MyDeathLink is?
 
