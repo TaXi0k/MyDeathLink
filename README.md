@@ -4,6 +4,14 @@
 
 Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled downloads and more. If you don't care about code scroll down to [***Instalation and usage***](https://github.com/TaXi0k/MyDeathLink/blob/main/README.md#instalation-and-usage).
 
+## Requirements
+
+**THIS ONE IS IMPORTANT, SO BETTER READ IT!**
+
+This project is built with **Windows only** in mind! It **DOESN'T** and probably **WON'T EVER** work on Linux or MacOS.
+
+If you are on Windows 11 or Windows 10, everything should work.
+
 ## What MyDeathLink is?
 
 **TL;DR:**  
@@ -37,7 +45,7 @@ Below you can see development progress of the project.
 >
 >If you have any other tips or want to help in any other way, feel free to message me on [Discord](https://discord.com/users/748861794637971547).
 
-## Instalation and usage
+## Installation and usage
 
 **Step 1:** Download
 
