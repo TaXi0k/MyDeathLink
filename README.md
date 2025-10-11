@@ -8,9 +8,10 @@ Welcome to repo of **MyDeathLink**. Here you'll find its source code, compiled d
 
 **THIS ONE IS IMPORTANT, SO BETTER READ IT!**
 
-This project is built with **Windows only** in mind! It **DOESN'T** and probably **WON'T EVER** work on Linux or MacOS.
-
-If you are on Windows 11 or Windows 10, everything should work.
+* This project is built with **Windows only** in mind! It **DOESN'T** and probably **WON'T EVER** work on Linux or MacOS.
+* If you are on Windows 11 or Windows 10, everything should work.
+* All mods are built for **Windows only**. They will **not** work on Linux or MacOS.  
+Specific mods may have additional requirements depending on the game, so check each mod’s instructions.
 
 ## What MyDeathLink is?
 
@@ -59,7 +60,7 @@ Head to [binaries](https://github.com/TaXi0k/MyDeathLink/tree/main/GTAV). Now do
 >
 > You might even have trouble downloading the compiled .exe, but it’s possible — after an hour and some help from a friend, I finally managed to get it XD
 
-**Step 2:** Instalation
+**Step 2:** Installation
 
 * The app is just a single executable, so it should work by simply opening the file.
 * Mod installation depends on the game you want to use. I’ll include a tutorial for GTA V only. For other games, you’ll need to google it — I’m sure you’ll figure it out.
