@@ -52,7 +52,7 @@ Below you can see development progress of the project.
 
 Head to [binaries](https://github.com/TaXi0k/MyDeathLink/tree/main/GTAV). Now download the app (MyDeathLink.exe) and mods for games you want to sync (f.e. MyDeathLink_GTAV.asi for GTA V)
 
-> **WARNING!**
+> [!WARNING]
 >
 > This mod is **not** malware, but most antivirus software might flag it because it listens for UDP datagrams.
 >
